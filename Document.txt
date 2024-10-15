@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carli Belle Wolpert's TV Recommendations</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            background-color: #ffe6e6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #ffcccc;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            color: #ff6666;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #ff6666;
+        }
+
+        .about-me {
+            margin-bottom: 40px;
+        }
+
+        .about-me p {
+            font-size: 1.2em;
+        }
+
+        .recommendations img {
+            width: 50px;
+            vertical-align: middle;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ffcccc;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Carli Belle Wolpert's TV Recommendations</h1>
+    </header>
+
+    <section class="about-me">
+        <h2>About Me</h2>
+        <p>Hi! I'm Carli Belle Wolpert, a 23-year-old from Chicago. I graduated from Tulane College, and let me just say, I absolutely <em>hate</em> winter and my job. I'm sarcastic, stubborn, and a realist. Nice to my friends, though! I love alcohol, weed, sushi, and "Love Island," but don't get me started on boring people, Stout, or "the uglies." I'm also the oldest twin by 17 minutes (make no mistake about that!). Fun fact: I was a premie and had a nose/mouth tube in the NICU.</p>
+    </section>
+
+    <section class="recommendations">
+        <h2>TV Recommendations Based on My Personality</h2>
+        <p>If you're anything like me, you'll love these shows:</p>
+        <ul>
+            <li><strong>Tell Me Lies</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – Twisted relationships, deception, and drama? Sign me up.</li>
+            <li><strong>Big Little Lies</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – Strong women, dark secrets, and beautiful settings.</li>
+            <li><strong>Nine Perfect Strangers</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – A trippy psychological drama to keep you guessing.</li>
+            <li><strong>The Undoing</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – Rich people drama? Yes, please.</li>
+            <li><strong>Baby Reindeer</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – A dark, haunting, and gripping series.</li>
+            <li><strong>One Day</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – Romantic drama with a realistic twist.</li>
+            <li><strong>Curb Your Enthusiasm</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TV_icon.svg" alt="TV icon"> – For when you need humor as dry as mine.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Carli Belle Wolpert | Catch me watching "Love Island" with sushi and wine!</p>
+    </footer>
+
+</body>
+</html>
